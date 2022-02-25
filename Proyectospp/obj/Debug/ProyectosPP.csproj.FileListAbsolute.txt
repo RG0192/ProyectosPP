@@ -1,0 +1,16 @@
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\bin\Debug\ProyectosPP.exe.config
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\bin\Debug\ProyectosPP.exe
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\bin\Debug\ProyectosPP.pdb
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.csproj.AssemblyReference.cache
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.menu.resources
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.Properties.Resources.resources
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.PROYECTOSPOO.arreglosbidimencionales.resources
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.PROYECTOSPOO.calculadora.resources
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.calculosaritmeticos.resources
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.PROYECTOSPOO.Frm_multidimensional.resources
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.PROYECTOSPOO.promediodetrescalificaciones.resources
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.csproj.GenerateResource.cache
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.csproj.CoreCompileInputs.cache
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.exe
+C:\Users\rosar\OneDrive\Documentos\ProyectosPP\ProyectosPP-master\obj\Debug\ProyectosPP.pdb
